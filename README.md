@@ -1,10 +1,22 @@
-# Size Matters in image searching.
-So, I made a tool that will:
+![Safeimagekit-th-1022288424](https://user-images.githubusercontent.com/43219706/173714284-72763e0b-19e5-4e51-866d-d743e082efc9.jpg)
+
+# Size Matters in image searching. Based off tested variations applied to reverse image searching.
+See the full article below.
+
+NOTE: I am not a good dev and did not create a requirements text or package this properly......but will eventually.
+
+The tool will:
 1. Open up your file explorer for you.
 2. Take any photo, and convert it into 7 different sizes.
 3. Ask you if you need a custom size.
 4. Open up Google Image search in your default browser for you.
 5. Thank you and self terminate the console.
+
+To do:
+1. Change default sizes to known standards.
+2. Open up each image in a new browswer tab.
+3. Place them in a folder vs desktop.
+4. Change the auto label placed by Google that affects the image search as well.
 
 ## To modify the default image sizes:
 1. Go to the code itself and change the numbers only in each of the groups.
@@ -31,11 +43,8 @@ print("Your file has been converted to 50x50(change 1200x1200) and 100x100 and 2
 
 ### Help improve reverse image searching - Because apparently, size matters!
 
-![Safeimagekit-th-1022288424](https://user-images.githubusercontent.com/43219706/173714284-72763e0b-19e5-4e51-866d-d743e082efc9.jpg)
-
 #### Jake Crepes mentioned in a post by:
-Irina Shamaeva
-@braingain:
+Irina Shamaeva Twitter = @braingain:
 (Full Article Below if you get bored)
 
 Reverse Image Search is a favorite way to find online traces of someone by their social profile photo.
