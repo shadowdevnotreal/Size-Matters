@@ -1,16 +1,19 @@
-# Size-Matters
+# Size Matters in image searching.
 So, I made a tool that will:
-1. Take any photo, convert it into 7 different sizes.
-2. Ask you if you need a custom size.
-3. Open up Google Image search in your default browser for you.
-4. Thank you and self terminate the console.
+1. Open up your file explorer for you.
+2. Take any photo, and convert it into 7 different sizes.
+3. Ask you if you need a custom size.
+4. Open up Google Image search in your default browser for you.
+5. Thank you and self terminate the console.
 
 
-## Tool to help improve reverse image searching - Because apparently, size matters!
+## Help improve reverse image searching - Because apparently, size matters!
 
 ![Safeimagekit-th-1022288424](https://user-images.githubusercontent.com/43219706/173714284-72763e0b-19e5-4e51-866d-d743e082efc9.jpg)
 
-### Jake Crepes mentioned in a post:
+### Jake Crepes mentioned in a post by:
+Irina Shamaeva
+@braingain:
 (Full Article Below if you get bored)
 
 Reverse Image Search is a favorite way to find online traces of someone by their social profile photo.
