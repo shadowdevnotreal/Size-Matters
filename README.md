@@ -27,7 +27,7 @@ cv2.imwrite(os.path.splitext(file_path)[0] + "_1200x1200" + os.path.splitext(fil
 
 **You will get a different "print" message unless you change it there as well.**
 **Here is an example:**
-print("Your file has been converted to **50x50** <-- (**chnage this to 1200**) and 100x100 and 200x200 and 400x400 and 600x600 and 800x800 and 1000x1000 and Your Custom Selection and is located at: " + os.path.splitext(file_path)[0] + "_100x100" + os.path.splitext(file_path)[1])
+print("Your file has been converted to **50x50** <-(**chnage this to 1200**) and 100x100 and 200x200 and 400x400 and 600x600 and 800x800 and 1000x1000 and Your Custom Selection and is located at: " + os.path.splitext(file_path)[0] + "_100x100" + os.path.splitext(file_path)[1])
 
 ### Help improve reverse image searching - Because apparently, size matters!
 
