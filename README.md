@@ -3,7 +3,7 @@
 # Size Matters in image searching. Based off tested variations applied to reverse image searching.
 
 See the Wiki for the full logic of why this works:
-https://github.com/michaelnotadev/Size-Matters/wiki/
+https://github.com/shadowdevnotrea/Size-Matters/wiki/
 
 NOTE: I am not a good dev and did not create a requirements text or package this properly......but will eventually.
 
