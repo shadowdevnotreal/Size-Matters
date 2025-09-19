@@ -7,7 +7,7 @@ https://github.com/shadowdevnotreal/Size-Matters/wiki
 
 NOTE: I am not a good dev and did not create a requirements text or package this properly......but will eventually.
 
-<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## It Creates the files VERY quickly.
 
